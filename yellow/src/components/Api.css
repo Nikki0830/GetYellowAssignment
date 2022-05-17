@@ -1,0 +1,23 @@
+.main_div {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 5%;
+  border: 1px solid white;
+  color: rgb(99, 148, 196);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+h1 {
+  color: rgb(68, 113, 157);
+}
+.add {
+  margin-left: 50%;
+}
+.name {
+  margin-left: 50%;
+  margin-top:5px;
+}
+
+body {
+  background-color: rgb(185, 225, 245);
+}
